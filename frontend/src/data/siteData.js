@@ -1,4 +1,4 @@
-import { Building2, BrushCleaning, BriefcaseBusiness, Users, Hammer, Cpu, ShieldCheck, ClipboardList, Factory, Landmark, Apartment, Building } from "lucide-react";
+import { Building2, Brush, BriefcaseBusiness, Users, Hammer, Cpu, ShieldCheck, ClipboardList, Factory, Landmark, Apartment, Building } from "lucide-react";
 
 export const company = {
   name: "MNM Facilitech Private Limited",
@@ -40,7 +40,7 @@ export const services = {
     {
       title: "Housekeeping & Office Cleaning",
       description: "Daily cleaning, deep cleaning, sanitization, disinfection, washroom care, common area upkeep, and hygiene-driven support for modern workplaces.",
-      icon: BrushCleaning,
+      icon: Brush,
     },
     {
       title: "Corporate Office Support",
