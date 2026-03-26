@@ -111,3 +111,5 @@ export const trustPoints = [
 ];
 
 export const icons = { ShieldCheck };
+
+export const siteData = { company, navLinks, stats, services, impactAreas, industries, testimonials, careerOpenings, highlights, trustPoints, icons };
