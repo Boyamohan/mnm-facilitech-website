@@ -4,7 +4,6 @@ import { ArrowRight } from 'lucide-react';
 export default function Hero() {
   return (
     <section className="relative py-20 md:py-32 bg-gradient-to-br from-brand-primary via-blue-50 to-white overflow-hidden">
-      <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10"></div>
       <div className="max-w-7xl mx-auto px-4 relative z-10">
         <div className="text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-brand-dark mb-6 leading-tight">
