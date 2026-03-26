@@ -51,7 +51,11 @@ export default function ContactSection() {
                 rows={4}
                 className="w-full"
               />
-              <Button className="w-full bg-brand-primary hover:bg-brand-dark text-white font-semibold py-3">
+              <Button
+                type="submit"
+                variant="primary"
+                className="w-full bg-brand-primary text-white hover:bg-brand-dark"
+              >
                 Send Message
               </Button>
             </form>
@@ -59,6 +63,5 @@ export default function ContactSection() {
         </div>
       </div>
     </section>
-    }
   );
 }
