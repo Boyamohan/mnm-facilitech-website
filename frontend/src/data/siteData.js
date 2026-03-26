@@ -1,4 +1,4 @@
-import { Building2, Brush, BriefcaseBusiness, Users, Hammer, Cpu, ShieldCheck, ClipboardList, Factory, Landmark, Apartment, Building } from "lucide-react";
+import { Building2, Brush, BriefcaseBusiness, Users, Hammer, Cpu, ShieldCheck, ClipboardList, Factory, Landmark, House, Building } from "lucide-react";
 
 export const company = {
   name: "MNM Facilitech Private Limited",
@@ -77,7 +77,7 @@ export const impactAreas = [
 export const industries = [
   { title: "IT Companies & Tech Parks", description: "Reliable support services for fast-growing tech environments, innovation centers, and shared office ecosystems in Hyderabad.", icon: Cpu },
   { title: "Corporate Offices", description: "Structured facility, front-office, and workforce support for enterprise teams that need polished daily operations.", icon: Building },
-  { title: "Residential Apartment Complexes", description: "Housekeeping, support staffing, security coordination, and service management for residential communities.", icon: Apartment },
+  { title: "Residential House Complexes", description: "Housekeeping, support staffing, security coordination, and service management for residential communities.", icon: House },
   { title: "SMBs", description: "Scalable office support, admin coordination, and facility services tailored for small and medium businesses.", icon: Landmark },
   { title: "Commercial Facilities", description: "Daily support for common areas, reception zones, service staff management, and vendor coordination.", icon: ClipboardList },
   { title: "Industrial & Support Sites", description: "Operational discipline, workforce allocation, attendance handling, and site support processes for active facilities.", icon: Factory },
