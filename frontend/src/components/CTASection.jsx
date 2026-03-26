@@ -19,6 +19,5 @@ export default function CTASection() {
         </Button>
       </div>
     </section>
-    }
   );
 }
